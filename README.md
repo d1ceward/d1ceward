@@ -1,5 +1,5 @@
 <div align="center">
-  <img width= "80%" src='https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif' alt='valhalla_gate'/>
+  <img width= "60%" src='https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif' alt='valhalla_gate'/>
 </div>
 
 ### Hei ! 👋
@@ -11,9 +11,4 @@
 [![StackOverflow](https://img.shields.io/static/v1?label=StackOverflow&message=%20&color=blue&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/7970365/d1ceward?tab=profile)
 
 
-:suspect: 23 years old French Developer
-
 :computer: Chief Technology Officer at @HappyRenting
-
-
-:rocket: From [D1ceWard](https://github.com/D1ceWard)
