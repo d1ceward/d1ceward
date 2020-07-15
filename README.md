@@ -1,6 +1,4 @@
-<div align="right">
-  <img width= "40%" src='https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif' alt='valhalla_gate'/>
-</div>
+<img align="right" width= "50%" src='https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif' alt='valhalla_gate'/>
 
 ### Hei ! 👋
 
@@ -9,4 +7,9 @@
 [![StackOverflow](https://img.shields.io/static/v1?label=StackOverflow&message=%20&color=blue&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/7970365/d1ceward?tab=profile)
 
 
-:computer: Chief Technology Officer at @HappyRenting
+
+:office: Chief Technology Officer at @HappyRenting
+
+:closed_book: Main languages: Ruby & Crystal
+
+:computer: Personal project: A web browser 4x game written in Crystal
