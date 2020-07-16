@@ -8,7 +8,7 @@
 
 
 
-:office: Chief Technology Officer at @HappyRenting
+:office: Work: Chief Technology Officer at @HappyRenting
 
 :closed_book: Main languages: Ruby & Crystal
 
