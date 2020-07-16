@@ -8,8 +8,8 @@
 
 
 
-:office: Work: Chief Technology Officer at @HappyRenting
+:office: **Work:** Chief Technology Officer at @HappyRenting
 
-:closed_book: Main languages: Ruby & Crystal
+:closed_book: **Main languages:** Ruby & Crystal
 
-:computer: Personal project: A web browser 4x game written in Crystal
+:computer: **Personal project:** A web browser 4x game written in Crystal
