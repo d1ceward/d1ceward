@@ -12,4 +12,4 @@
 
 :closed_book: **Main languages:** Ruby & Crystal
 
-:computer: **Personal project:** A web browser 4x game written in Crystal
+:computer: **Personal project:** A web browser economy game written in Crystal
