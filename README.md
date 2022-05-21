@@ -1,5 +1,5 @@
 <picture>
-  <img align="right" width="500" src='https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif' alt='valhalla_gate' />
+  <img align="right" width="400" src='https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif' alt='valhalla_gate' />
 </picture>
 
 ### Heill ! 👋
