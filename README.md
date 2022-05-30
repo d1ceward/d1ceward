@@ -1,6 +1,6 @@
-<img width="400" align="right" src="https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif" />
-
 ## Heill ! 👋
+
+<img width="400" align="right" src="https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif" />
 
 [![d1ceward.com](https://raw.githubusercontent.com/D1ceWard/d1ceward/master/portfolio.svg)](https://www.d1ceward.com/)
 [![Twitter](https://raw.githubusercontent.com/D1ceWard/d1ceward/master/twitter.svg)](https://twitter.com/D1ceWard)
