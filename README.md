@@ -1,6 +1,4 @@
-<p>
-  <img height="160" align="right" src="https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif" />
-</p>
+<img width="400" align="right" src="https://raw.githubusercontent.com/D1ceWard/d1ceward/master/valhalla%20_gate.gif" />
 
 ## Heill ! 👋
 
