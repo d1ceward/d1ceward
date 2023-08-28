@@ -6,7 +6,7 @@
 [![Twitter](https://raw.githubusercontent.com/D1ceWard/d1ceward/master/twitter.svg)](https://twitter.com/D1ceWard)
 [![StackOverflow](https://raw.githubusercontent.com/D1ceWard/d1ceward/master/stackoverflow.svg)](https://stackoverflow.com/users/7970365/d1ceward?tab=profile)
 
-I'm a french 26 years old developper living in Paris, passionate by technology and nordic mythology.
+I'm a french 27 years old developper living in Paris, passionate by technology and nordic mythology.
 
 :office: **Work:** Chief Technology Officer at @HappyRenting
 
