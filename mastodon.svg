@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="20" role="img" aria-label="Mastodon: ">
+  <title>Mastodon: </title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="82" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="72" height="20" fill="#555"/>
+    <rect x="72" width="10" height="20" fill="#5c4ce1"/>
+    <rect width="82" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <image x="5" y="3" width="14" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABhmlDQ1BJQ0MgcHJvZmlsZQAAKJF9kTtIw1AUhv+mig8qgnYQEclQnSyKijhKFYtgobQVWnUwuekLmjQkKS6OgmvBwcdi1cHFWVcHV0EQfIC4ujgpukiJ5yaFFjEeuNyP/57/595zAaFWYqrZNgGommUkohExnVkVO17RhT74MI5hiZl6LLmYgmd93VMn1V2YZ3n3/Vk9StZkgE8knmO6YRFvEM9sWjrnfeIgK0gK8TnxmEEXJH7kuuzyG+e8wwLPDBqpxDxxkFjMt7DcwqxgqMTTxCFF1ShfSLuscN7irJYqrHFP/sJAVltJcp3WEKJYQgxxiJBRQRElWAjTrpFiIkHnEQ//oOOPk0smVxGMHAsoQ4Xk+MH/4PdszdzUpJsUiADtL7b9MQJ07AL1qm1/H9t2/QTwPwNXWtNfrgGzn6RXm1roCOjdBi6um5q8B1zuAANPumRIjuSnJeRywPsZfVMG6L8FutfcuTXOcfoApGhWyzfAwSEwmqfsdY93d7bO7d+exvx+AJggcrbQDndlAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH5wkSATAuMsct9AAAAsZJREFUSMfFlU2IllUUx393XmfehmFK1MDUmggrREv7oEwLN0Ftok0fq3DbKmrhsl0guJSoXIibNtWiZdAigoGIalN+kBpmSIwGOjbO5+u882vR/4nrozNDGHTg8lzuc+75+J//PafQErUAw8AI0AU6wABQarWsPrAIzAMzpZRe215pGb4T2Ao8DjwK3AvcFYed6BujC8AMcAU4D3wP/AT8Xkq5flPU6ib1HfWU2leX/HdyTf1M3ad22w7Wqe+p061Li+psvm1ZUOdvEci4ulvtAKyJj73Am8EdoAecBk4AV4ENwK7ANwUcB84EqjHgMeDuQPgs8DpwDvijyeCY2ksEPfUb9QV1KP9H1DfU79SP1e1V9luS/aUqi5PqtjqDR1JEgEngKPAlsEHdBUwDXwMXgVlgWn0RmAB+Bj6IjZeSxWbgjroG5yssT6sPJer96tng+nJ0N6sH1d/UT9WdOT9U1XBOfYLwG2CoouB8cB4Fng7uTwLPRXcM2AfcB+wBHsj51VD3Bvo3DvoxDrCU/QAwWOkNZ9/Nas47rXvN/gYHC6wuN11eQXqNXu3AFS4MABvV3cCOis7LyWJjr2HR7DLRNtLJW7knrWPLCrqkjku1g2tRLDlbm2+3KtrGrHZmo+pIatQU9wIwVzuYrByMAR9mv3UVKNYCbwGvAA+GeQBfpQn+8w4Op7f8FzKuPtXuRWdC1duRSeAL4AjwYymlXzs4DlyvuN4w6wdgHLg/Da/BuReMp9I+zgGnEuhEPQ8aB2czLJ6pHk4nBj4K7Qarf8006yeQOWCuiZpbjMmu+qp6sdXfL6hvZ14MVmsoZ+sarJeT0hqXrwHvhu9rEuEk8Avwa97LMLAe2AR8ArxfSvlz9T7w99gcVZ9XP1cvpyv2wrCZjMWprEvqgbyBlTNoORoMvx9OTXYko26wnki9vk1hp0op8n/JX/mKgtUyCNN5AAAAAElFTkSuQmCC"/>
+    <text aria-hidden="true" x="450" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="460">Mastodon</text>
+    <text x="450" y="140" transform="scale(.1)" fill="#fff" textLength="460">Mastodon</text>
+  </g>
+</svg>
