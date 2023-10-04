@@ -7,7 +7,7 @@
 <a rel="me" href="https://social.forgesparks.com/@d1ceward">![Mastodon](https://raw.githubusercontent.com/d1ceward/d1ceward/master/mastodon.svg)</a>
 [![StackOverflow](https://raw.githubusercontent.com/d1ceward/d1ceward/master/stackoverflow.svg)](https://stackoverflow.com/users/7970365/d1ceward?tab=profile)
 
-I'm a french 27 years old developper living in Paris, passionate by technology and nordic mythology.
+I'm a french 27 years old developper living in Paris, passionate about technology and nordic mythology.
 
 :office: **Work:** Chief Technology Officer at @HappyRenting
 
