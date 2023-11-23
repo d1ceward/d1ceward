@@ -8,6 +8,7 @@
 [![StackOverflow](https://raw.githubusercontent.com/d1ceward/d1ceward/master/stackoverflow.svg)](https://stackoverflow.com/users/7970365/d1ceward?tab=profile)
 
 I'm a french 27 years old developper living in Paris 🇫🇷, passionate about technology and nordic mythology.
+
 Amateur guitarist 🎸
 
 :office: **Work:** Chief Technology Officer at @HappyRenting
